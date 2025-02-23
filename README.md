@@ -17,7 +17,7 @@ CardSwipe is a beautifully designed iOS app feature that presents events as swip
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/CardSwipe.git
+   git clone https://github.com/programmerwali/CardSwipe.git
    ```
 2. Open `CardSwipe.xcodeproj` in Xcode.
 3. Build and run the project on a simulator or a physical device.
