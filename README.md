@@ -12,7 +12,7 @@ CardSwipe is a beautifully designed iOS app feature that presents events as swip
 
 ## Screenshots
 
-<img src="CardSwipe_img1.png" width="300"> <img src="CardSwipe_img2.png" width="300"> <img src="CardSwipe_img3.png" width="300">
+<img src="CardSwipe_img3.png" width="300"> <img src="CardSwipe_img1.png" width="300"> <img src="CardSwipe_img2.png" width="300">
 
 ## Installation
 1. Clone the repository:
